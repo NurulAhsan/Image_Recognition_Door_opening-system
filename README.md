@@ -1,1 +1,1 @@
-# Image_Recognition_Door_opening-system
+# Door Opening System using Image Recognition
